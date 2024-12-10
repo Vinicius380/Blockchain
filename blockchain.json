@@ -1,0 +1,50 @@
+[
+    {
+        "index": 0,
+        "timestamp": 1733785894.0300276,
+        "dados": "Bloco G\u00eanesis",
+        "hash_anterior": "0",
+        "nonce": 0,
+        "hash_atual": "5aecdafd0b38bcb54d0aaeb0214e122e60b8a23f9e8356a4c5f9d61e59fe6bad"
+    },
+    {
+        "index": 1,
+        "timestamp": 1733785932.4006116,
+        "dados": {
+            "glicose": 450.0
+        },
+        "hash_anterior": "5aecdafd0b38bcb54d0aaeb0214e122e60b8a23f9e8356a4c5f9d61e59fe6bad",
+        "nonce": 407,
+        "hash_atual": "00e95df411f9b004f6963a6fc257bc0f43172474a2557df92103bffa56bdef61"
+    },
+    {
+        "index": 2,
+        "timestamp": 1733786181.5748737,
+        "dados": {
+            "glicose": 450.0
+        },
+        "hash_anterior": "00e95df411f9b004f6963a6fc257bc0f43172474a2557df92103bffa56bdef61",
+        "nonce": 124,
+        "hash_atual": "0030d198486b6bbefb993bdb232e32821e36d885d155d6c84f9706ed1084f6fb"
+    },
+    {
+        "index": 3,
+        "timestamp": 1733786211.6874392,
+        "dados": {
+            "glicose": 9000000000000.0
+        },
+        "hash_anterior": "0030d198486b6bbefb993bdb232e32821e36d885d155d6c84f9706ed1084f6fb",
+        "nonce": 188,
+        "hash_atual": "00f3e694c39d7c02c61e49068ef10d1bbdc64c01f0f821464c5517eb603b84dc"
+    },
+    {
+        "index": 4,
+        "timestamp": 1733786356.2729104,
+        "dados": {
+            "glicose": 300.0
+        },
+        "hash_anterior": "00f3e694c39d7c02c61e49068ef10d1bbdc64c01f0f821464c5517eb603b84dc",
+        "nonce": 79,
+        "hash_atual": "00f8ef7c92f7a258c76ca7c4b7ba2c30e817db58f861e53edcacc982f4f10bd0"
+    }
+]
